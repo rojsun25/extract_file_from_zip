@@ -1,4 +1,4 @@
-from extract_and_parse_file_from_zip import extract_and_parse_file_from_zip
+from file_checker.extract_and_parse_file_from_zip import extract_and_parse_file_from_zip
 
 # inputfile - File directory or the ZipFile
 # destination - Extraction directory
